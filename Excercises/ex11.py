@@ -1,3 +1,5 @@
+# ------------------------------------------------------------- Functions (Part 2) -----------------------------------------------------------------
+
 # 1. Write a function to check if a number is Armstrong or not.
 def is_armstrong(number):
     power = len(str(number))
@@ -184,3 +186,4 @@ def generate_otp():
     return otp
 
 generate_otp()
+
